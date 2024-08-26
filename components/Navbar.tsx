@@ -21,7 +21,7 @@ const Navbar = () => {
       <div className="lg:flexCenter hidden ">
         <Button 
           type="button"
-          title="Reverse Table"
+          title="Reserve Table"
           icon="/user.svg"
           variant="btn_dark_green"
         />

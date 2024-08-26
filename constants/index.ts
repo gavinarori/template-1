@@ -18,34 +18,35 @@ export const PEOPLE_URL = [
 // FEATURES SECTION
 export const FEATURES = [
   {
-    title: 'Real maps can be offline',
-    icon: '/map.svg',
+    title: 'Stunning Scenic Views',
+    icon: '/map.svg', // You can replace this with a relevant SVG if needed
     variant: 'green',
     description:
-      'We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location',
+      'Enjoy breathtaking views from our restaurant, whether you’re dining indoors or in our beautifully landscaped outdoor areas. Our picturesque settings make every meal an unforgettable experience.',
   },
   {
-    title: 'Set an adventure schedule',
-    icon: '/calendar.svg',
+    title: 'Private Event Hosting',
+    icon: '/calendar.svg', // You can replace this with a relevant SVG if needed
     variant: 'green',
     description:
-      "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+      'Host your special events with us, from intimate gatherings to grand celebrations. Our versatile spaces and excellent service ensure that your event is memorable and enjoyable.',
   },
   {
-    title: 'Technology using augment reality',
-    icon: '/tech.svg',
+    title: 'Gourmet Dining Experience',
+    icon: '/tech.svg', // You can replace this with a relevant SVG if needed
     variant: 'green',
     description:
-      'Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection',
+      'Indulge in a diverse menu crafted from the finest ingredients. Our culinary team offers a range of gourmet dishes designed to satisfy every palate and create a remarkable dining experience.',
   },
   {
-    title: 'Many new locations every month',
-    icon: '/location.svg',
+    title: 'Seasonal and Local Ingredients',
+    icon: '/location.svg', // You can replace this with a relevant SVG if needed
     variant: 'orange',
     description:
-      'Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing',
+      'We prioritize fresh, seasonal, and locally sourced ingredients to deliver the highest quality dishes. Experience the flavors of our region with every bite, and taste the commitment to quality in our cuisine.',
   },
 ];
+
 
 // FOOTER SECTION
 export const FOOTER_LINKS = [
